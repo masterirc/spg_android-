@@ -4,28 +4,9 @@
 #                                                                              #
 #                                   SPG                                        #
 #                          Simple Payload Generator                            #
-#                             by: Assassin umz                                 #
+#                             by: Black Heart                                #
 #                                                                              #
-# Follow me :                                                                  #
-# •YouTube: https://youtube.com/c/pixiters                                     #
-# •Discord: https://discord.gg/3nfQadt                                         #
-# •Website: http://pixiters.ga                                                 #
-# •GitHub: https://github.com/Assassinumz                                      #
-#                                                                              #
-#                                 LICENSE                                      #
-# THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE  #
-# THIS SOFTWARE AT YOUR OWN RISK. The use of this software Simple Payload      #
-# Generator(SPG) is COMPLETE RESPONSIBILITY of the END-USER. Developers assume #
-#  NO liability and are NOT responsible for any misuse or damage caused by     #
-# this program.                                                                #
-#                                                                              #
-# IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY     #
-# DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES   #
-# (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; #
-# LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND  #
-# ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT   #
-# (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF     #
-# THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE             #
+#             
 #                                                                              #
 ################################################################################
 
